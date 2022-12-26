@@ -79,5 +79,6 @@ public class Main {
         for (int l = 1; l <= 10; l++) {
             System.out.println("2 * " + l + " = " + l * 2);
         }
+        System.out.println("end");
     }
 }
